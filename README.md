@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### Project de teste para tesde da Lib React-PDF
+
+[React-PDF](https://github.com/diegomura/react-pdf) para gerar Arquivos pdf, com conteúdos dinamicos consumidos de uma API
+
+
 ## Available Scripts
 
 In the project directory, you can run:
