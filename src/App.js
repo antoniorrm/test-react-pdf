@@ -1,11 +1,10 @@
 import React from 'react';
-import PDF from './pdfg';
+import PDF from './PDF';
 
 class App extends React.Component {
   
   render() {
     return (
-      
       <PDF id = {1}/>
     );
   } 
